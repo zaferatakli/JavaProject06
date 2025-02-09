@@ -1,4 +1,4 @@
-# Team 4 Banking Project
+# Techno Study Banking Project
 
 ## Project Overview: Banking Application
 
