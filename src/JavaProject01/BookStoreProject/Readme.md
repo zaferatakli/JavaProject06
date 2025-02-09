@@ -7,10 +7,10 @@ This project involves designing a module for an online bookstore that allows use
 ```
 src
 ├───bookStore
-│       Book.java
-│       OnlineBookStore.java
-│       Readme.md
-│       Runner.java
+│______ Book.java
+│______ OnlineBookStore.java
+│______ Runner.java
+│______ Readme.md
 ```
 
 ## Features
